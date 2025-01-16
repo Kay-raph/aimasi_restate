@@ -1009,7 +1009,8 @@ p {
   width: 61px;
   position: absolute;
   content: "";
-  background: url(../images/0203-coffee-love.png) no-repeat;
+  background: url(../pics/map_1.png) no-repeat;
+  background-size: contain;
   top: 0;
   left: 50%;
   margin-top: -50px;
