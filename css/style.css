@@ -404,7 +404,7 @@ p {
 #fh5co-about .fh5co-text {
   padding: 2em 6em;
   text-align: left;
-  background: #130d08 url(../pics/best_bg.jpg) no-repeat center;
+  background: #130d08 url(../pics/best_bg_2.jpg) no-repeat;
   color: #fff;
 }
 @media screen and (max-width: 1200px) {
@@ -556,7 +556,7 @@ p {
   width: 64px;
   position: absolute;
   content: "";
-  background: url(../images/0103-served-plate_64.png) no-repeat;
+  background: url(../pics/best_bg.jpg) no-repeat;
   top: 0;
   left: 50%;
   margin-top: -50px;
@@ -777,7 +777,8 @@ p {
   width: 64px;
   position: absolute;
   content: "";
-  background: url(../pics/amenities1.png) no-repeat center;
+  background: url(../pics/amenities.png) no-repeat;
+  background-size: cover;
   top: 0;
   left: 50%;
   margin-top: -50px;
@@ -873,7 +874,7 @@ p {
   margin: 0 0 10px 0;
   padding: 0;
   font-size: 20px;
-  color: #000;
+  color: #996515;
 }
 #fh5co-menus .fh5co-food-menu ul li .fh5co-food-pricing {
   float: right;
@@ -913,7 +914,8 @@ p {
   width: 49px;
   position: absolute;
   content: "";
-  background: url(../images/0402-chef.png) no-repeat;
+  background: url(../pics/property.png) no-repeat;
+  background-size: contain;
   top: 0;
   left: 50%;
   margin-top: -50px;
