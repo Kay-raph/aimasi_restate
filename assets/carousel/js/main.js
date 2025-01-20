@@ -21,17 +21,17 @@
 	    animateIn: 'fadeIn',
 	    nav:true,
 	    dots: true,
-	    autoplayHoverPause: false,
+	    autoplayHoverPause: true,
 	    items: 1,
 	    navText : ["<p><small>Prev</small><span class='ion-ios-arrow-round-back'></span></p>","<p><small>Next</small><span class='ion-ios-arrow-round-forward'></span></p>"],
 	    responsive:{
 	      0:{
 	        items:1
 	      },
-	      600:{
+	      1500:{
 	        items:1
 	      },
-	      1000:{
+	      3000:{
 	        items:1
 	      }
 	    }
