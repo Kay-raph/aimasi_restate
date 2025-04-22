@@ -911,15 +911,15 @@ p {
   color: #fff;
 }
 #fh5co-events .fh5co-heading .heading:before, #fh5co-events .fh5co-heading .heading::before {
-  height: 64px;
-  width: 49px;
+  height: 150px;
+  width: 100px;
   position: absolute;
   content: "";
-  background: url(../pics/property.png) no-repeat;
+  background: url(../logo/riara_one_1.png) no-repeat;
   background-size: contain;
   top: 0;
   left: 50%;
-  margin-top: -50px;
+  margin-top: -100px;
   margin-left: -24px;
 }
 #fh5co-events .fh5co-heading .sub-heading {
