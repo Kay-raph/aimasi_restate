@@ -260,7 +260,7 @@ p {
   left: 0;
   right: 0;
   opacity: .5;
-  background: #000;
+  background: rgba(0.5, 0.5, 0.5, 1);
 }
 #fh5co-home .flexslider .flex-control-nav,
 #fh5co-home .flexslider .flex-direction-nav {
@@ -321,7 +321,7 @@ p {
 .fh5co-main-nav .fh5co-menu-1 a.active,
 .fh5co-main-nav .fh5co-menu-2 a.active,
 .fh5co-main-nav .fh5co-logo a.active {
-  color: #a1d1b1;
+  color: #996515;
 }
 .fh5co-main-nav .fh5co-menu-1 {
   text-align: right;
