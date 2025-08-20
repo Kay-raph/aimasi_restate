@@ -986,10 +986,12 @@ p {
 
 #fh5co-contact {
   padding: 7em 0;
+  width: 100%;
 }
 @media screen and (max-width: 768px) {
   #fh5co-contact {
     padding: 5em 0;
+    width: 100%;
   }
 }
 #fh5co-contact h3 {
@@ -999,6 +1001,7 @@ p {
 @media screen and (max-width: 768px) {
   #fh5co-contact {
     padding: 5em 0;
+    width: 100%;
   }
 }
 #fh5co-contact .fh5co-heading .heading {
@@ -1007,13 +1010,12 @@ p {
 }
 #fh5co-contact .fh5co-heading .heading:before, #fh5co-contact .fh5co-heading .heading::before {
   height: 61px;
-  width: 61px;
+  width: 100%;
   position: absolute;
   content: "";
   background: url(../pics/map_1.png) no-repeat;
   background-size: contain;
   top: 0;
-  left: 50%;
   margin-top: -50px;
   margin-left: -24px;
 }
@@ -1048,6 +1050,7 @@ p {
 #fh5co-container {
   position: relative;
   z-index: 10;
+  width: 100%;
 }
 
 #fh5co-footer {
