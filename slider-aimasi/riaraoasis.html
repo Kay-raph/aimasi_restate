@@ -24,6 +24,28 @@
 
     <title>Aimasi Group</title>
   </head>
+
+  <style>
+		.float{
+		position:fixed;
+		width:60px;
+		height:60px;
+		bottom:25px;
+		right:30px;
+		background-color:#25d366;
+		color:#FFF;
+		border-radius:50px;
+		text-align:center;
+	  font-size:30px;
+		box-shadow: 2px 2px 3px #999;
+	  z-index:100;
+	}
+	
+	.my-float{
+		margin-top:16px;
+	}
+	  </style>
+
   <body>
   <div class="content">
       <div class="site-mobile-menu">
@@ -122,7 +144,7 @@ Location- Riara road, Kilimani near Makini school </p>
 <br>● Back up generator
 <br>● 24Hr CCTV & Visual conversational system<br>
 
-                <p><a href="" target="_blank" class="btn btn-outline-primary btn-md btn-pill">Next Project</a></p>
+                <p><a href="" target="_blank" class="btn btn-outline-primary btn-md btn-pill" style="background-color: #a1d1b1;">Next Project</a></p>
               </div>
             </div>
           </div>
@@ -131,13 +153,44 @@ Location- Riara road, Kilimani near Makini school </p>
     </div>
      <!-- END .site-blocks-cover -->
   </div>
-    
-    
+    <br>
+    <div id="fh5co-footer">
+		<div class="container">
+			<div class="row row-padded">
+				<div class="col-md-12 text-center">
+					<p class="to-animate">&copy; 2025 | All Rights Reserved | Aimasi Group Limited. <br> Designed by <a href="http://mugita.netlify.app" target="_blank" style="color: #a1d1b1;">Tukoworks</a> 
+					</p>
+					<p class="text-center to-animate"><a href="#" class="js-gotop" style="color: #a1d1b1;">Go To Top</a></p>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<ul class="fh5co-social">
+						<li class="to-animate-2"><a href="https://www.facebook.com/profile.php?id=61569585436800" target="_blank" style="color: #a1d1b1;"><i class="icon-facebook"></i></a></li>
+						<li class="to-animate-2"><a href="https://www.instagram.com/aimasi_real_estate_limited/" target="_blank" style="color: #a1d1b1;"><i class="icon-instagram"></i></a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+	<a href="https://api.whatsapp.com/send?phone=0114777888&text=Hello?%20%20%20Please share%20more%20information.%20" class="float" target="_blank">
+	  <i class="fa fa-whatsapp my-float"></i>
+	</a>
 
     <script src="js/jquery-3.3.1.min.js"></script>
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/owl.carousel.min.js"></script>
     <script src="js/main.js"></script>
+    <!-- Bootstrap DateTimePicker -->
+	<script src="js/moment.js"></script>
+	<script src="js/bootstrap-datetimepicker.min.js"></script>
+  <script>
+		$(function () {
+	       $('#date').datetimepicker();
+	   });
+	</script>
   </body>
 </html>
