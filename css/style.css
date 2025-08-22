@@ -404,7 +404,7 @@ p {
 #fh5co-about .fh5co-text {
   padding: 2em 6em;
   text-align: left;
-  background: #130d08 url(../pics/best_bgg.jpg) no-repeat;
+  background: #130d08 url(../pics/RIARAOASIS-BG.jpg) no-repeat;
   background-size: cover;
   color: #fff;
 }
@@ -540,7 +540,7 @@ p {
 
 #fh5co-featured {
   padding: 7em 0;
-  background: #130d08 url(../pics/best_bgg.jpg) no-repeat center;
+  background: #130d08 url(../pics/RIARAOASIS-BG.jpg) no-repeat center;
 }
 @media screen and (max-width: 768px) {
   #fh5co-featured {
@@ -557,7 +557,7 @@ p {
   width: 64px;
   position: absolute;
   content: "";
-  background: url(../pics/best_bgg.jpg) no-repeat;
+  background: url(../pics/RIARAOASIS-BG.jpg) no-repeat;
   top: 0;
   left: 50%;
   margin-top: -50px;
@@ -1013,7 +1013,7 @@ p {
   width: 100%;
   position: absolute;
   content: "";
-  background: url(../pics/best_bgg.jpg) no-repeat;
+  background: url(../pics/RIARAOASIS-BG.jpg) no-repeat;
   background-size: contain;
   top: 0;
   margin-top: -50px;
